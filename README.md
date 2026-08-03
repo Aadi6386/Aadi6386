@@ -24,7 +24,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Aadi6386&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Aadi6386&icon=1&color=blue&abbreviated=true)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Aadi6386&icon=1&color=red&abbreviated=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Aadi6386) 
