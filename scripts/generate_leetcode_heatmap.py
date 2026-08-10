@@ -610,7 +610,7 @@ y="{footer_y}"
 font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif"
 font-size="8"
 fill="{MUTED}">
-Less
+Inactive
 </text>
 '''
     )
@@ -651,7 +651,7 @@ y="{footer_y}"
 font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif"
 font-size="8"
 fill="{MUTED}">
-More
+Active
 </text>
 '''
     )
