@@ -95,31 +95,37 @@
 
 # 🚀 Featured Projects :
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 🧮 Smart Calculator
 
 A modern, responsive calculator built with **HTML, CSS & Vanilla JavaScript**.
 
 **Features:**
 
-- 🔢 Scientific calculations
-- 🎨 Glassmorphism UI
-- 🌙 Dark & Light themes
-- 📜 Calculation history
-- 💾 Local Storage
-- ⌨️ Keyboard support
-- ♿ Accessibility focused
-- 📱 Responsive design
+* 🔢 Scientific calculations
+* 🎨 Glassmorphism UI
+* 🌙 Dark & Light themes
+* 📜 Calculation history
+* 💾 Local Storage
+* ⌨️ Keyboard support
+* ♿ Accessibility focused
+* 📱 Responsive design
 
-<p>
+<p align="center">
   <a href="https://github.com/Aadi6386/smart-calculator-js">
-    <img src="https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+    <img src="https://img.shields.io/badge/💻%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart Calculator Repository"/>
   </a>
   <a href="https://aadi6386.github.io/smart-calculator-js/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Smart Calculator Live Demo"/>
   </a>
 </p>
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 🚀 Tribute Page
 
@@ -127,23 +133,27 @@ A modern and responsive tribute webpage built with **HTML5 & CSS3**.
 
 **Features:**
 
-- 📱 Responsive design
-- 🎨 Glassmorphism cards
-- ✨ CSS animations
-- 🧭 Sticky navigation
-- 📐 Flexbox & CSS Grid
-- 🖱️ Smooth scrolling
-- 📱 Mobile friendly
-- 🎯 Semantic HTML
+* 📱 Responsive design
+* 🎨 Glassmorphism cards
+* ✨ CSS animations
+* 🧭 Sticky navigation
+* 📐 Flexbox & CSS Grid
+* 🖱️ Smooth scrolling
+* 📱 Mobile friendly
+* 🎯 Semantic HTML
 
-<p>
+<p align="center">
   <a href="https://github.com/Aadi6386/tribute-page">
-    <img src="https://img.shields.io/badge/💻%20View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+    <img src="https://img.shields.io/badge/💻%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tribute Page Repository"/>
   </a>
   <a href="https://aadi6386.github.io/tribute-page/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Tribute Page Live Demo"/>
   </a>
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -207,6 +217,10 @@ A modern and responsive tribute webpage built with **HTML5 & CSS3**.
   <img
     src="https://github-profile-trophy.vercel.app/?username=Aadi6386&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8"
     alt="Aadi's GitHub Trophies"
+    width="100%"
+  />
+   <img
+    src="https://github-profile-trophy.vercel.app/?username=Aadi6386&column=3&margin-w=15&margin-h=15"    alt="Aadi's GitHub Trophies"
     width="100%"
   />
 </p>
