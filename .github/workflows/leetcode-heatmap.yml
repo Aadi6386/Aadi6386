@@ -1,0 +1,46 @@
+name: Update LeetCode Heatmap
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 4 * * *"
+
+  push:
+    paths:
+      - "scripts/generate_leetcode_heatmap.py"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate LeetCode heatmap
+        run: |
+          python scripts/generate_leetcode_heatmap.py
+
+      - name: Save heatmap
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add leetcode-heatmap.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update LeetCode heatmap"
+            git push
+          fi
