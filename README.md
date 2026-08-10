@@ -199,16 +199,23 @@ A modern and responsive tribute webpage built with **HTML5 & CSS3**.
 
 ---
 
-# 🔥 GitHub Contribution Streak
+# 🔥 GitHub Contributions
 
 <p align="center">
-   <a href="https://github.com/Aadi6386">
-     <img
-       src="https://github-readme-activity-graph.vercel.app/graph?user=Aadi6386&theme=github-compact&hide_border=true&area=true"
-       alt="Aadi's GitHub Contribution Streak"
-       width="100"
-     />
-   </a>
+  <img
+    src="https://ghchart.rshah.org/Aadi6386"
+    alt="Aadi6386 GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aadi6386">
+    <img
+      src="https://img.shields.io/badge/View%20Full%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub Profile"
+    />
+  </a>
 </p>
 
 ---
