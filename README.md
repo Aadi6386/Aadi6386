@@ -21,14 +21,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ## 🧠 LeetCode Journey
-
-<p align="center">
   <img
     src="https://leetcard.jacoblin.cool/AadiCodes6386?theme=dark&font=Baloo&ext=heatmap"
     alt="AadiCodes6386 LeetCode Stats"
   />
-</p>
-
 <p align="center">
   <i>Consistency > Intensity 🚀</i>
 </p>
