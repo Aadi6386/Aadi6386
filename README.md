@@ -1,6 +1,6 @@
-<p align="center">
-  # 👋 Hi there, I'm Aadi..
-</p>
+<h1 align="center">
+   👋 Hi there, I'm Aadi..
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aadi6386&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
