@@ -213,13 +213,7 @@ A modern and responsive tribute webpage built with **HTML5 & CSS3**.
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Aadi6386&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8"
-    alt="Aadi's GitHub Trophies"
-    width="100%"
-  />
-</p>
+  ![](https://github-trophies.vercel.app/?username=Aadi6386&margin-w=15&theme=flat)
 
 ---
 
