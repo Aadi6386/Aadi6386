@@ -23,6 +23,8 @@
 ## 🗓️ Leetcode Streak
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AadiCodes6386?theme=forest&font=Varta)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/AadiCodes6286?ext=heatmap)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aadi6386&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
