@@ -21,8 +21,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ## 🗓️ Leetcode Streak
-![LeetCode Stats](https://leetcard.jacoblin.cool/AadiCodes6386?theme=forest&font=Varta)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AadiCodes6286?ext=heatmap)
 
 ### 🔝 Top Contributed Repo
