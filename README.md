@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Aadi Singh
+<p align="center">
+  # 👋 Hi there, I'm Aadi..
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aadi6386&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -36,7 +38,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack :
 
 ## 👨‍💻 Languages
 
@@ -91,16 +93,7 @@
 
 ---
 
-# 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Aadi6386/smart-calculator-js">
-    <img src="https://img.shields.io/badge/🧮%20Smart%20Calculator-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart Calculator"/>
-  </a>
-  <a href="https://github.com/Aadi6386/tribute-page">
-    <img src="https://img.shields.io/badge/🚀%20Tribute%20Page-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tribute Page"/>
-  </a>
-</p>
+# 🚀 Featured Projects :
 
 ## 🧮 Smart Calculator
 
@@ -224,19 +217,10 @@ A modern and responsive tribute webpage built with **HTML5 & CSS3**.
 
 <p align="center">
   <a href="https://github.com/Aadi6386/smart-calculator-js">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Aadi6386&repo=smart-calculator-js&theme=default&show_owner=true"
-      alt="Smart Calculator Repository"
-      width="400"
-    />
+    <img src="https://img.shields.io/badge/🧮%20Smart%20Calculator-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart Calculator"/>
   </a>
-
   <a href="https://github.com/Aadi6386/tribute-page">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Aadi6386&repo=tribute-page&theme=default&show_owner=true"
-      alt="Tribute Page Repository"
-      width="400"
-    />
+    <img src="https://img.shields.io/badge/🚀%20Tribute%20Page-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tribute Page"/>
   </a>
 </p>
 
