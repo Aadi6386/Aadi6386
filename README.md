@@ -202,11 +202,13 @@ A modern and responsive tribute webpage built with **HTML5 & CSS3**.
 # 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Aadi6386&theme=default&hide_border=false&border_radius=12"
-    alt="Aadi's GitHub Contribution Streak"
-    width="500"
-  />
+   <a href="https://github.com/Aadi6386">
+     <img
+       src="https://github-readme-activity-graph.vercel.app/graph?user=Aadi6386&theme=github-compact&hide_border=true&area=true"
+       alt="Aadi's GitHub Contribution Streak"
+       width="100"
+     />
+   </a>
 </p>
 
 ---
