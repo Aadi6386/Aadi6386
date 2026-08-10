@@ -22,7 +22,7 @@
 
 ## 🧠 LeetCode Journey
   <img
-    src="https://leetcard.jacoblin.cool/AadiCodes6386?theme=dark&font=Baloo&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/AadiCodes6386?theme=light&font=Baloo&ext=heatmap"
     alt="AadiCodes6386 LeetCode Stats"
   />
 <p align="center">
