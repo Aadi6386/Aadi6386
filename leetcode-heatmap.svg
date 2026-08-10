@@ -6584,7 +6584,7 @@ y="219"
 font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif"
 font-size="8"
 fill="#57606a">
-Less
+Inactive
 </text>
 
 
@@ -6614,7 +6614,7 @@ y="219"
 font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif"
 font-size="8"
 fill="#57606a">
-More
+Active
 </text>
 
 </svg>
