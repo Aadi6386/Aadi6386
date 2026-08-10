@@ -168,7 +168,10 @@ A modern and responsive tribute webpage built with **HTML5 & CSS3**.
 </p>
 
 <p align="center">
- 
+     <img
+    src="./leetcode-heatmap.svg"
+    alt="Aadi6386 LeetCode Activity"
+  />
 </p>
 
 <p align="center">
