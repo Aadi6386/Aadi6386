@@ -274,7 +274,7 @@ A modern and responsive tribute webpage built with **HTML5 & CSS3**.
 ---
 
 <p align="center">
-  <strong>⭐ Thanks for visiting my profile! ⭐</strong>
+  <strong>⭐ Thanks for visiting my profile..! ⭐</strong>
 </p>
 
 <p align="center">
