@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>💻 Software Developer • 🤖 Machine Learning Enthusiast • 🧠 Problem Solver • 🛠️ Engineer</strong>
+  <strong>💻 Software Developer • 🤖 Machine Learning Enthusiast • 🧠 Problem Solver</strong>
 </p>
 
 <p align="center">
