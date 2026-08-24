@@ -97,50 +97,50 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-## 🧮 Smart Calculator
+## 🧮 Ledger Calculator
 
-A modern, responsive calculator built with **HTML, CSS & Vanilla JavaScript**.
+A modern, responsive calculator rebuilt around a real expression engine using **HTML, CSS & Vanilla JavaScript**.
 
 **Features:**
 
-* 🔢 Scientific calculations
-* 🎨 Glassmorphism UI
-* 🌙 Dark & Light themes
-* 📜 Calculation history
-* 💾 Local Storage
-* ⌨️ Keyboard support
+* 🧮 Full expression evaluation with brackets & operator precedence
+* 🔬 Scientific functions, constants & degrees/radians
+* ⇄ Unit converter
+* 📜 Paper-tape calculation history
+* 💾 Persistent memory & Local Storage
+* ⌨️ Keyboard shortcuts
+* 📱 Installable offline-capable PWA
 * ♿ Accessibility focused
-* 📱 Responsive design
 
 <p align="center">
   <a href="https://github.com/Aadi6386/smart-calculator-js">
-    <img src="https://img.shields.io/badge/💻%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart Calculator Repository"/>
+    <img src="https://img.shields.io/badge/💻%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ledger Calculator Repository"/>
   </a>
   <a href="https://aadi6386.github.io/smart-calculator-js/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Smart Calculator Live Demo"/>
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ledger Calculator Live Demo"/>
   </a>
 </p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 🚀 Tribute Page
 
-A modern and responsive tribute webpage built with **HTML5 & CSS3**.
+A premium, modern tribute website built with **HTML5 & CSS3**, redesigned as a polished frontend project.
 
 **Features:**
 
 * 📱 Responsive design
+* ✨ Premium hero landing section
 * 🎨 Glassmorphism cards
-* ✨ CSS animations
+* 📊 Statistics & company showcase
 * 🧭 Sticky navigation
-* 📐 Flexbox & CSS Grid
-* 🖱️ Smooth scrolling
-* 📱 Mobile friendly
-* 🎯 Semantic HTML
+* 📅 Career timeline
+* ✨ CSS animations
+* ♿ Accessibility focused
 
 <p align="center">
   <a href="https://github.com/Aadi6386/tribute-page">
@@ -148,6 +148,34 @@ A modern and responsive tribute webpage built with **HTML5 & CSS3**.
   </a>
   <a href="https://aadi6386.github.io/tribute-page/">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Tribute Page Live Demo"/>
+  </a>
+</p>
+
+</td>
+
+<td width="34%" valign="top">
+
+## 📋 TaskFlow
+
+A modern, responsive task management web application built with **HTML, CSS & Vanilla JavaScript**.
+
+**Features:**
+
+* 📝 Task creation & management
+* 🏷️ Categories & filtering
+* 💾 Local Storage persistence
+* 🔍 Search & task organization
+* 📱 Responsive interface
+* 🎨 Modern UI/UX
+* ⌨️ Keyboard-friendly interactions
+* ♿ Accessibility focused
+
+<p align="center">
+  <a href="https://github.com/Aadi6386/TaskFlow">
+    <img src="https://img.shields.io/badge/💻%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="TaskFlow Repository"/>
+  </a>
+  <a href="https://aadi6386.github.io/TaskFlow/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TaskFlow Live Demo"/>
   </a>
 </p>
 
@@ -213,7 +241,7 @@ A modern and responsive tribute webpage built with **HTML5 & CSS3**.
   <a href="https://github.com/Aadi6386">
     <img
       src="https://img.shields.io/badge/View%20Full%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub Profile"
+      alt="View Full GitHub Profile"
     />
   </a>
 </p>
@@ -230,19 +258,19 @@ A modern and responsive tribute webpage built with **HTML5 & CSS3**.
 
 <p align="center">
   <a href="https://github.com/Aadi6386/smart-calculator-js">
-    <img src="https://img.shields.io/badge/🧮%20Smart%20Calculator-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart Calculator"/>
+    <img src="https://img.shields.io/badge/🧮%20Ledger%20Calculator-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ledger Calculator"/>
   </a>
   <a href="https://github.com/Aadi6386/tribute-page">
     <img src="https://img.shields.io/badge/🚀%20Tribute%20Page-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tribute Page"/>
+  </a>
+  <a href="https://github.com/Aadi6386/TaskFlow">
+    <img src="https://img.shields.io/badge/📋%20TaskFlow-181717?style=for-the-badge&logo=github&logoColor=white" alt="TaskFlow"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Aadi6386?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/📂%20View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View All Repositories"
-    />
+    <img src="https://img.shields.io/badge/📂%20View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
   </a>
 </p>
 
