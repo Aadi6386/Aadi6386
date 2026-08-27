@@ -97,7 +97,8 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+
+<td width="50%" valign="top">
 
 ## 🧮 Ledger Calculator
 
@@ -125,7 +126,7 @@ A modern, responsive calculator rebuilt around a real expression engine using **
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ## 🚀 Tribute Page
 
@@ -153,7 +154,10 @@ A premium, modern tribute website built with **HTML5 & CSS3**, redesigned as a p
 
 </td>
 
-<td width="34%" valign="top">
+</tr>
+<tr>
+
+<td width="50%" valign="top">
 
 ## 📋 TaskFlow
 
@@ -180,10 +184,8 @@ A modern, responsive task management web application built with **HTML, CSS & Va
 </p>
 
 </td>
-</tr>
 
-<tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ## 🔐 Authorization Page
 
@@ -209,8 +211,10 @@ A polished, client-side authentication experience built with **HTML, CSS & Vanil
 </p>
 
 </td>
+
 </tr>
 </table>
+
 
 ---
 
