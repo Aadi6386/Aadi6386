@@ -288,6 +288,36 @@ A polished, client-side authentication experience built with **HTML, CSS & Vanil
 
 ---
 
+<div align="center">
+
+## `~/` contribution calendar
+
+<!-- 3D isometric calendar, regenerated every 6h by .github/workflows/metrics.yml -->
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
+
+<br><br>
+
+<!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Aadi6386/Aadi6386/output/snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Aadi6386/Aadi6386/output/snake.svg"
+  >
+  <img
+    src="https://raw.githubusercontent.com/Aadi6386/Aadi6386/output/snake.svg"
+    width="100%"
+    alt="snake eating the contribution graph"
+  >
+</picture>
+
+</div>
+
+---
+
 # 🏆 GitHub Trophies
 
   ![](https://github-trophies.vercel.app/?username=Aadi6386&margin-w=15&theme=flat)
