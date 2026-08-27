@@ -292,32 +292,15 @@ A polished, client-side authentication experience built with **HTML, CSS & Vanil
 
 ## `~/` contribution calendar
 
-<!-- 3D isometric calendar, automatically regenerated every 6h -->
-<img
-  src="assets/metrics.isocalendar.svg"
-  width="90%"
-  alt="3D isometric contribution calendar"
->
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
 
 <br><br>
-
-<!-- Contribution snake, automatically regenerated every 6h -->
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Aadi6386/Aadi6386/output/snake-dark.svg"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadi6386/Aadi6386/output/snake-dark.svg">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Aadi6386/Aadi6386/output/snake.svg"
-  >
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aadi6386/Aadi6386/output/snake.svg">
 
-  <img
-    src="https://raw.githubusercontent.com/Aadi6386/Aadi6386/output/snake.svg"
-    width="100%"
-    alt="snake eating the contribution graph"
-  >
+  <img src="https://raw.githubusercontent.com/Aadi6386/Aadi6386/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
 </div>
