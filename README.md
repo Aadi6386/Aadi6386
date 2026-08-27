@@ -147,7 +147,6 @@ A premium, modern tribute website built with **HTML5 & CSS3**, redesigned as a p
 * 📅 Career timeline
 * ✨ CSS animations
 * ♿ Accessibility focused
-* 📱 Smart Design
 * 📲 Installable offline-capable PWA
 
 <p align="center">
