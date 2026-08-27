@@ -98,6 +98,34 @@
 
 ---
 
+<div align="center">
+
+## 🧭 Skill radar
+
+<!-- Automatically generated from real language usage across GitHub repositories -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/radar-langs-dark.svg"
+  >
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="assets/radar-langs-light.svg"
+  >
+
+  <img
+    src="assets/radar-langs-dark.svg"
+    width="440"
+    alt="GitHub language radar chart"
+  >
+</picture>
+
+</div>
+
+---
+
 # 🚀 Featured Projects :
 
 <table>
@@ -290,7 +318,7 @@ A polished, client-side authentication experience built with **HTML, CSS & Vanil
 
 <div align="center">
 
-## `~/` contribution calendar
+## 🐍 contribution calendar
 
 <img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
 
