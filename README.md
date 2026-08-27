@@ -2,7 +2,7 @@
    👋 Welcome!
 </h1>
 <p align="center">
-   <img src="assets/animation.gif" width="700">
+   <img src="assets/profile_animation.gif" width="700">
    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Aaditya+Singh;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
 </p>
 <p align="center">
