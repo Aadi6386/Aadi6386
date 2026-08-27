@@ -102,24 +102,10 @@
 
 ## 🧭 Skill radar
 
-<!-- Automatically generated from real language usage across GitHub repositories -->
-
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="assets/radar-langs-dark.svg"
-  >
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="assets/radar-langs-light.svg"
-  >
-
-  <img
-    src="assets/radar-langs-dark.svg"
-    width="440"
-    alt="GitHub language radar chart"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <img src="assets/radar-langs-dark.svg" width="440" alt="GitHub language radar chart">
 </picture>
 
 </div>
