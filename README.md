@@ -203,6 +203,7 @@ A polished, client-side authentication experience built with **HTML, CSS & Vanil
 * 🔑 Password hashing & strength feedback
 * 🛡️ Session & Remember Me persistence
 * 🎨 Dark / light theme
+* ⌨️ Keyboard Functionality
 * 📱 Responsive design
 * 📲 Installable offline-capable PWA
 * ♿ Accessibility focused
