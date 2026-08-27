@@ -181,6 +181,35 @@ A modern, responsive task management web application built with **HTML, CSS & Va
 
 </td>
 </tr>
+
+<tr>
+<td width="100%" valign="top">
+
+## 🔐 Authorization Page
+
+A polished, client-side authentication experience built with **HTML, CSS & Vanilla JavaScript**.
+
+**Features:**
+
+* 🔐 Registration, login & logout flows
+* 🔑 Password hashing & strength feedback
+* 🛡️ Session & Remember Me persistence
+* 🎨 Dark / light theme
+* 📱 Responsive design
+* 📲 Installable offline-capable PWA
+* ♿ Accessibility focused
+
+<p align="center">
+  <a href="https://github.com/Aadi6386/Authorization-Page">
+    <img src="https://img.shields.io/badge/💻%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Authorization Page Repository"/>
+  </a>
+  <a href="https://aadi6386.github.io/Authorization-Page/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Authorization Page Live Demo"/>
+  </a>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -265,6 +294,9 @@ A modern, responsive task management web application built with **HTML, CSS & Va
   </a>
   <a href="https://github.com/Aadi6386/TaskFlow">
     <img src="https://img.shields.io/badge/📋%20TaskFlow-181717?style=for-the-badge&logo=github&logoColor=white" alt="TaskFlow"/>
+  </a>
+  <a href="https://github.com/Aadi6386/Authorization-Page">
+    <img src="https://img.shields.io/badge/🔐%20Authorization%20Page-181717?style=for-the-badge&logo=github&logoColor=white" alt="Authorization Page"/>
   </a>
 </p>
 
