@@ -1,0 +1,37 @@
+name: Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          user: Aadi6386
+          template: classic
+          filename: assets/metrics.isocalendar.svg
+
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Kolkata
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated calendar
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "assets/metrics.isocalendar.svg"
+          message: "chore: update contribution calendar"
