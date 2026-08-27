@@ -283,40 +283,6 @@ A polished, client-side authentication experience built with **HTML, CSS & Vanil
 
 ---
 
-<div align="center">
-
-## `~/` skill radar
-
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<!-- Self-rated radar - edit assets/skills.json, the workflow redraws it -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
-</picture>
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-<!-- Live radar built from real language byte counts across your repos -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
-</picture>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
----
-
 # 🏆 GitHub Trophies
 
   ![](https://github-trophies.vercel.app/?username=Aadi6386&margin-w=15&theme=flat)
