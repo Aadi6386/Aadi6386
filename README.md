@@ -117,7 +117,7 @@ A modern, responsive calculator rebuilt around a real expression engine using **
 * 📜 Paper-tape calculation history
 * 💾 Persistent memory & Local Storage
 * ⌨️ Keyboard shortcuts
-* 📱 Installable offline-capable PWA
+* 📲 Installable offline-capable PWA
 * ♿ Accessibility focused
 
 <p align="center">
@@ -147,6 +147,8 @@ A premium, modern tribute website built with **HTML5 & CSS3**, redesigned as a p
 * 📅 Career timeline
 * ✨ CSS animations
 * ♿ Accessibility focused
+* 📱 Smart Design
+* 📲 Installable offline-capable PWA
 
 <p align="center">
   <a href="https://github.com/Aadi6386/tribute-page">
