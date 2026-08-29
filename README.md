@@ -1,5 +1,5 @@
 <h1 align="center">
-   👋 Welcome!
+   👋 Welcome..!
 </h1>
 <p align="center">
    <img src="assets/github_animation.gif" width="200">
